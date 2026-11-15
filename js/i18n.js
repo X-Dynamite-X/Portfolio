@@ -151,7 +151,7 @@ window.PORTFOLIO_I18N = {
       location: "عمّان، الأردن",
       scaleTag: "+1M مستخدم",
       nameFirst: "عبد الرحمن",
-      nameLast: "أحمد",
+      nameLast: "احمد",
       tagline:
         "مهندس برمجيات متخصص في الأنظمة الخلفية وقائد تقني لبناء أنظمة إنتاجية عبر الويب والموبايل والأمن السيبراني (Laravel، Python/Django، Flutter، Vue/Nuxt) — من منصات تخدم أكثر من مليون مستخدم إلى أنظمة SaaS أمنية مدعومة بالذكاء الاصطناعي وأدوات تطوير محلية.",
       ctaPrimary: "استكشف Laravel Dev",
@@ -260,8 +260,8 @@ window.PORTFOLIO_I18N = {
     backToTop: "العودة للأعلى",
     footerHint: "اضغط Ctrl+K أو ⌘K لفتح لوحة الأوامر السريعة",
     data: {
-      name: "عبد الرحمن أحمد",
-      shortName: "عبد الرحمن",
+      name: "عبد الرحمن احمد",
+      shortName: "عبد الرحمن احمد",
       title: "مهندس برمجيات أنظمة خلفية وقائد تقني",
       location: "عمّان، الأردن",
       roles: [

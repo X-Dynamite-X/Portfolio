@@ -621,8 +621,9 @@
 
   /* ---------------- About & Code Blueprint ---------------- */
   function getProfileSnippetPlain() {
+    const activeName = getData().name;
     if (currentCodeMode === "yaml") {
-      return `engineer: "Abd Al-Rahman Ahmad"
+      return `engineer: "${activeName}"
 role: "Back-End Software Engineer & Technical Lead"
 location: "Amman, Jordan"
 education:
@@ -645,7 +646,7 @@ open_source:
 
     return JSON.stringify(
       {
-        name: BASE.name,
+        name: activeName,
         role: BASE.title,
         location: BASE.location,
         education: {
@@ -1501,6 +1502,7 @@ open_source:
 
     document.documentElement.lang = currentLang;
     document.documentElement.dir = d.dir || "ltr";
+    document.title = `${data.name} — ${data.title}`;
 
     $("#skipLink").textContent = d.skipLink || "Skip to main content";
     $("#langLabel").textContent = d.langLabel || (currentLang === "en" ? "العربية" : "English");
