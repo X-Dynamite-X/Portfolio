@@ -167,7 +167,7 @@ I'm **Abd Al-Rahman Ahmad**, a **Back-End Software Engineer & Technical Lead** b
 <p align="center">
   <a href="https://x-dynamite-x.github.io"><img src="https://img.shields.io/badge/Portfolio-070b0f?style=for-the-badge&logo=googlechrome&logoColor=34d399" /></a>
   <a href="mailto:abdarhamnahmad@gmail.com"><img src="https://img.shields.io/badge/Email-070b0f?style=for-the-badge&logo=gmail&logoColor=34d399" /></a>
-  <a href="https://www.linkedin.com/in/abd-al-rahman-ahmed-996711245/"><img src="https://img.shields.io/badge/LinkedIn-070b0f?style=for-the-badge&logo=linkedin&logoColor=34d399" /></a>
+  <a href="https://www.linkedin.com/in/abd-alrahman-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-070b0f?style=for-the-badge&logo=linkedin&logoColor=34d399" /></a>
   <a href="https://github.com/X-Dynamite-X"><img src="https://img.shields.io/badge/GitHub-070b0f?style=for-the-badge&logo=github&logoColor=34d399" /></a>
 </p>
 

@@ -31,7 +31,7 @@ window.PORTFOLIO = {
     email: "abdarhamnahmad@gmail.com",
     phone: "+962 788 793 307",
     phoneHref: "tel:+962788793307",
-    linkedin: "https://www.linkedin.com/in/abd-al-rahman-ahmed-996711245/",
+    linkedin: "https://www.linkedin.com/in/abd-alrahman-ahmad/",
     github: "https://github.com/X-Dynamite-X",
     cvUrl: "assets/Abd_AlRahman_Ahmad_CV.pdf",
   },
